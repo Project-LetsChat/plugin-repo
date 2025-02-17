@@ -8,5 +8,6 @@
     "licenseUrl": "https://mit-license.org/",
     "downloadUrl": "https://github.com/Project-LetsChat/plugin-repo/blob/main/plugins/test/sample.txt",
     "repoUrl": "https://github.com/Project-LetsChat/plugin-repo.git/",
-    "category": "Utility"
+    "category": "Utility",
+    "compatibleWith": ["LetsChat 6.1.2", "LetsChat 6.0.2", "LetsChat 6.0"]
 }
