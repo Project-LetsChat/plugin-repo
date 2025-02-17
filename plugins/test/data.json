@@ -1,6 +1,7 @@
 {
     "id": 1,
     "name": "Placeholder",
+    "compatibleWith": ["LetsChat 6.1.2", "LetsChat 6.0.2", "LetsChat 6.0"],
     "description": "This is a placeholder and not a real plugin.",
     "version": 0.0,
     "author": "LetsChat Developers",
@@ -9,5 +10,4 @@
     "downloadUrl": "https://github.com/Project-LetsChat/plugin-repo/blob/main/plugins/test/sample.txt",
     "repoUrl": "https://github.com/Project-LetsChat/plugin-repo.git/",
     "category": "Utility",
-    "compatibleWith": ["LetsChat 6.1.2", "LetsChat 6.0.2", "LetsChat 6.0"]
 }
