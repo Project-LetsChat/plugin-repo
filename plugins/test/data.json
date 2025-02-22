@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Placeholder",
-    "compatibleWith": ["LetsChat 6.1.2", "LetsChat 6.0.2", "LetsChat 6.0"],
+    "compatibleWith": "LetsChat 6.1.2", "LetsChat 6.0.2", "LetsChat 6.0",
     "description": "This is a placeholder and not a real plugin.",
     "version": 0.0,
     "author": "LetsChat Developers",
