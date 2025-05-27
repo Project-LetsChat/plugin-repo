@@ -1,13 +1,13 @@
 {
     "id": 1,
     "name": "Placeholder",
-    "compatibleWith": "LetsChat 6.1.2, LetsChat 6.0.2.",
+    "compatibleWith": "LetsChat 6.1.2, LetsChat 6.0.2",
     "description": "This is a placeholder and not a real plugin.",
     "version": 0.0,
     "author": "LetsChat Developers",
     "license": "MIT License",
     "licenseUrl": "https://mit-license.org/",
-    "downloadUrl": "https://github.com/Project-LetsChat/plugin-repo/blob/main/plugins/test/sample.txt",
-    "repoUrl": "https://github.com/Project-LetsChat/plugin-repo.git/",
-    "category": "Utility",
+    "downloadUrl": "https://github.com/Project-LetsChat/plugin-repo/raw/main/plugins/test/plugin.zip",
+    "repoUrl": "https://github.com/Project-LetsChat/plugin-repo.git",
+    "category": "Utility"
 }
